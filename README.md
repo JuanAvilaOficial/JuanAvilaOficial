@@ -3,14 +3,14 @@
 ![me](assets/banner.png)
 
 ## I’m currently working on:
-
+  [30 PROYECTOS JAVA] 
 ## 🌱 I’m currently learning ...
   - COBOL
 
 ## How to reach me:
-  [![LinkedIn: JUAN AVILA](https://img.shields.io/badge/-JuanAvila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/juan-manuel-avila-perez-97a62a192/)
-- [GitHub](https://github.com/JuanAvilaOficial)
-- [Instagram](https://www.instagram.com/juanavila.exe/)
+  [![LinkedIn: JUAN AVILA](https://img.shields.io/badge/-JuanAvilaOficial-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/juan-manuel-avila-perez-97a62a192/)
+[![GitHub](https://img.shields.io/badge/-JuanAvilaOficial-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/in/thaianebraga/)](https://github.com/JuanAvilaOficial)
+[![Instagram](https://img.shields.io/badge/-JuanAvilaOficial-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/JuanAvilaOficial/)](https://www.instagram.com/juanavila.exe/)
 
 
 <!--
