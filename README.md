@@ -4,9 +4,10 @@
 
 
 ## How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/juan-avila-7a5a)
-- ![GitHub](https://github.com/juanavila)
-- ![Instagram] ()
+- [LinkedIn](https://www.linkedin.com/in/juan-manuel-avila-perez-97a62a192/)
+- [Github](https://github.com/JuanAvilaOficial)
+- [Instagram](https://www.instagram.com/juanavilaoficial/)
+- [Email](mailto:JManuelAvilaPerez@gmail.com)
 
 <!--
 **JuanAvilaOficial/JuanAvilaOficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
