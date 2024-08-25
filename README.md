@@ -12,7 +12,7 @@
 
 [![GitHub](https://img.shields.io/badge/-JuanAvilaOficial-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/in/thaianebraga/)](https://github.com/JuanAvilaOficial)
 
-[![Instagram](https://img.shields.io/badge/-JuanAvilaOficial-blue?style=flat-square&logo=Instagram&link=https://www.instagram.com/juanavila.exe/)](https://www.instagram.com/juanavila.exe/)
+[![Instagram](https://img.shields.io/badge/JuanAvilaOficial?style=flat-square&logo=Instagram&link=https://www.instagram.com/juanavila.exe/)](https://www.instagram.com/juanavila.exe/)
 
 
 <!--
