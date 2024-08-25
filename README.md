@@ -5,11 +5,11 @@
 ## I’m currently working on:
 
 ## 🌱 I’m currently learning ...
-  - [ ] COBOL
+  - COBOL
 
 ## How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/juan-manuel-avila-perez-97a62a192/)
-- [Github](https://github.com/JuanAvilaOficial)
+  [![LinkedIn: JUAN AVILA](https://img.shields.io/badge/-JuanAvila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/juan-manuel-avila-perez-97a62a192/)
+- [GitHub](https://github.com/JuanAvilaOficial)
 - [Instagram](https://www.instagram.com/juanavila.exe/)
 
 
