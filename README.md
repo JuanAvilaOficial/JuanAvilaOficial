@@ -1,6 +1,6 @@
 ## Hi, I'm Juan Avila  🔭👋
 
-![me](banner.png)
+![me](assets/banner.png)
 
 ## I’m currently working on:
 
@@ -9,9 +9,11 @@
 - [LinkedIn](https://www.linkedin.com/in/juan-manuel-avila-perez-97a62a192/)
 - [Github](https://github.com/JuanAvilaOficial)
 - [Instagram](https://www.instagram.com/juanavila.exe/)
-- [Email](mailto:JManuelAvilaPerez@gmail.com)
 
-[![JuanAvilaOficial's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanAvilaOficial)](https://github.com/JuanAvilaOficial/github-readme-stats)
+
+<!--
+[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanAvilaOficial)](https://github.com/JuanAvilaOficial/github-readme-stats)
+-->
 
 <!--
 **JuanAvilaOficial/JuanAvilaOficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
