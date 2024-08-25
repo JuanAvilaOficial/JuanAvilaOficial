@@ -4,6 +4,8 @@
 
 ## I’m currently working on:
 
+## 🌱 I’m currently learning ...
+  - [ ] COBOL
 
 ## How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/juan-manuel-avila-perez-97a62a192/)
