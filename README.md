@@ -1,6 +1,13 @@
 ## Hi, I'm Juan Avila  👋
 
 ![me](banner.png)
+
+
+## How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/juan-avila-7a5a)
+- ![GitHub](https://github.com/juanavila)
+- ![Instagram] ()
+
 <!--
 **JuanAvilaOficial/JuanAvilaOficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,6 +19,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
