@@ -1,5 +1,5 @@
 ## Hi, I'm Juan Avila  🔭👋
-
+![me](assets/progammingBoy.gif)
 ![me](assets/banner.png)
 
 ## About me
