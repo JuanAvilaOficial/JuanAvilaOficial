@@ -1,5 +1,5 @@
 ## Hi, I'm Juan Avila
-<img align='Center' src="assets/progammingBoy.gif" width="50">
+<img align='center' src="assets/progammingBoy.gif" width="50">
 ![me](assets/banner.png)
 
 ## About me
