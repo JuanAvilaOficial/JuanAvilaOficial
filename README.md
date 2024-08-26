@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ProgramingBoy.gif" width="150">
+  <img src="assets/ProgramingBoy.gif" width="250">
 </p>
 
 <h2 align='center'>
