@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ProgramingBoy.gif" alt="Avatar" width="250" style="border-radius: 15px;">
+  <img src="assets/ProgramingBoy.gif" class="avatar" alt="Avatar" width="250">
 </p>
 
 <h2 align='center'>
