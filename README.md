@@ -1,7 +1,7 @@
 <h2 align='center'>
   Hi, I'm Juan Avila
 </h2>
-<center><img src="assets/ProgramingBoy.gif" width="250">
+<center><img align='center' src="assets/ProgramingBoy.gif" width="250">
 </center>
 
 ![me](assets/banner.png)
