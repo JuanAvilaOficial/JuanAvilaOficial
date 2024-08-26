@@ -1,8 +1,6 @@
-<p align="center"><img align="center" src="assets/ProgramingBoy.gif" width="250"></p>
-| ![me](assets/ProgramingBoy.gif) |
-|:--:|
-| ![Descripción de la imagen](assets/ProgramingBoy.gif) |
-|:--:|
+<p align="center">
+  <img src="assets/ProgramingBoy.gif" width="250" style="border-radius: 15px;">
+</p>
 
 <h2 align='center'>
   Hi, I'm Juan Avila
