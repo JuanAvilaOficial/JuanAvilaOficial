@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="border-radius: 15px;">
   <img src="assets/ProgramingBoy.gif" alt="Avatar" width="250" border-radius="15" style="border-radius: 15px;">
   <img src="assets/ProgramingBoy.gif" alt="Descripción de la animación" style="border-radius: 15px;">
 </p>
