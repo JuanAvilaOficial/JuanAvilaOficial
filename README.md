@@ -1,4 +1,5 @@
-<img align='center' src="assets/ProgramingBoy.gif" width="250" style="border-radius:50px">
+<center><img align='center' src="assets/ProgramingBoy.gif" width="250" style="border-radius:50%"></center>
+
 
 <h2 align='center'>
   Hi, I'm Juan Avila
