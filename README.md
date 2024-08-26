@@ -1,5 +1,7 @@
-<p><img align='center' src="assets/ProgramingBoy.gif" width="250"></p>
+<p align="center"><img align="center" src="assets/ProgramingBoy.gif" width="250"></p>
 | ![me](assets/ProgramingBoy.gif) |
+|:--:|
+| ![Descripción de la imagen](assets/ProgramingBoy.gif) |
 |:--:|
 
 <h2 align='center'>
