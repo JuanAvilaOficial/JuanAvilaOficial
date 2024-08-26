@@ -1,16 +1,6 @@
 <p align="center">
-  <img src="assets/ProgramingBoy.gif" class="avatar" alt="Avatar">
-      <style>
-        img {
-            border-radius: 15px;
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-        }
-    </style>
+  <img src="assets/ProgramingBoy.gif" with="250">
 </p>
-
-![me](assets/index.html)
 
 <h2 align='center'>
   Hi, my name is Juan Avila
