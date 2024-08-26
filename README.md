@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/ProgramingBoy.gif" alt="Avatar" width="250" style="border-radius: 15px; width= 250px;">
+  <img src="assets/ProgramingBoy.gif" alt="Avatar" width="250" style="border-radius: 15px;">
 </p>
 
 <h2 align='center'>
-  Hi, I'm Juan Avila
+  Hi, my name is Juan Avila
 </h2>
 
 ![me](assets/banner.png)
@@ -13,7 +13,6 @@ Software Development Engineering student (8th semester), with more than 5 years 
 
 Professional with skills such as leadership, creativity and continuous learning. Interested in mobile, desktop and GNU/linux application development.
 
-Translated with DeepL.com (free version)
 
 ## 🔭 I’m currently working on:
   - 30 PROYECTOS JAVA
