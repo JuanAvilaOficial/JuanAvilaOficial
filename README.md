@@ -1,7 +1,5 @@
-<center><img align='center' src="assets/ProgramingBoy.gif" width="250">
-</center>
-
 <h2 align='center'>
+  <img align='center' src="assets/ProgramingBoy.gif" width="250">
   Hi, I'm Juan Avila
 </h2>
 
