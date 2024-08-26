@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
   <img src="assets/ProgramingBoy.gif" width="250">
-</p>
+</p>-->
 
 <h2 align='center'>
   Hi, my name is Juan Avila
