@@ -18,7 +18,6 @@ Professional with skills such as leadership, creativity and continuous learning.
   - [30 PROYECTOS JAVA](https://github.com/JuanAvilaOficial/30-proyectos-java)
   - Studying 8th semester of Software Engineering
   - Working as Analyst Specialized in bank Avvillas
-  - :bowtie:
   
 ## 🌱 I’m currently learning :
   - COBOL
