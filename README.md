@@ -1,5 +1,13 @@
 <p align="center">
   <img src="assets/ProgramingBoy.gif" class="avatar" alt="Avatar">
+      <style>
+        img {
+            border-radius: 15px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
 </p>
 
 [avatar](assets/index.html)
