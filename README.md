@@ -1,4 +1,4 @@
-<center><img align='center' src="assets/ProgramingBoy.gif" width="250" style="border-radius:50%"></center>
+<p><img align='center' src="assets/ProgramingBoy.gif" width="250"></p>
 
 
 <h2 align='center'>
