@@ -25,4 +25,6 @@ Professional with skills such as leadership, creativity and continuous learning.
   - Ethical Hacking and CyberSecurity
 
 ##  🌎 How to reach me :
-  [![LinkedIn: JUAN AVILA](https://img.shields.io/badge/-JuanAvilaOficial-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/juan-manuel-avila-perez-97a62a192/)
+
+<center>[![LinkedIn: JUAN AVILA](https://img.shields.io/badge/-JuanAvilaOficial-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/juan-manuel-avila-perez-97a62a192/)
+</center>
