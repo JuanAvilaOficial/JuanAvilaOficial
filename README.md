@@ -10,7 +10,7 @@
     </style>
 </p>
 
-![avatar](assets/index.html)
+![me](assets/index.html)
 
 <h2 align='center'>
   Hi, my name is Juan Avila
