@@ -2,6 +2,8 @@
   <img src="assets/ProgramingBoy.gif" class="avatar" alt="Avatar">
 </p>
 
+[avatar](assets/index.html)
+
 <h2 align='center'>
   Hi, my name is Juan Avila
 </h2>
