@@ -22,6 +22,7 @@ Professional with skills such as leadership, creativity and continuous learning.
 ## 🌱 I’m currently learning :
   - COBOL
   - Z/OS
+  - TypeScript
   - Ethical Hacking and CyberSecurity
 
 ##  🌎 How to reach me :
