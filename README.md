@@ -4,16 +4,16 @@
 
 **Backend & Mainframe Engineer · Applied AI · Growing into Cybersecurity**
 
-🇨🇴 Bogotá, Colombia
+🇨🇴 Bogotá, Colombia · 🌐 [jmadev.co](https://jmadev.co)
 
 </div>
 
 ---
 
-> 💡 **7+ years bridging banking mainframe (COBOL, JCL, ETL) and modern backend (Java, Spring Boot, Docker).**
+> 💡 **7+ years in software development, bridging banking mainframe (COBOL, JCL, ETL) and modern backend (Java, Spring Boot, Docker).**
 > Today I deliver custom software as a freelancer using AI-assisted development, and I'm specializing in **Information Security** to bring a security-first mindset to the systems I build.
 
-> 🔐 **Open to opportunities** in secure backend engineering, legacy/mainframe integration and migration, and application security.
+> 🔐 **Open to opportunities** in secure backend engineering, legacy/mainframe integration and migration, and application security — and **available for freelance projects** from Bogotá.
 
 ---
 
@@ -64,7 +64,7 @@
 
 ## 📌 What I'm up to
 
-- 🧑‍💻 **Freelance** — building custom software for companies, from planning to production
+- 🧑‍💻 **Freelance** — building custom software for companies, from planning to production · [jmadev.co](https://jmadev.co)
 - 🔐 **Specialization** in Information Security @ Coterminal — *active*
 - 🎓 **Software Engineering** @ Compensar Fundación Universitaria — 10th semester
 - ☕ **Project** — [30 Proyectos Java](https://github.com/JuanAvilaOficial/30-proyectos-java)
@@ -126,6 +126,7 @@
 
 ## 🌎 Let's connect
 
+[![Website](https://img.shields.io/badge/Website-jmadev.co-%23111929?style=flat&logo=googlechrome&logoColor=white)](https://jmadev.co)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Avila-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-avila-perez-97a62a192/)
 [![GitHub](https://img.shields.io/badge/GitHub-JuanAvilaOficial-%23181717?style=flat&logo=github&logoColor=white)](https://github.com/JuanAvilaOficial)
 [![Email](https://img.shields.io/badge/Email-JManuelAvilaPerez%40gmail.com-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:JManuelAvilaPerez@gmail.com)
